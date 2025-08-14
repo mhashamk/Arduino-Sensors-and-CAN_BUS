@@ -41,20 +41,21 @@ Each project includes complete Python scripts for data logging, visualization, a
 ```
 Arduino-Sensors-and-CAN_BUS/
 ├── README.md                           # This file
-
-├── 
-│   ├── ultrasonic_distance.py              # Ultrasonic sensor project
+├── Ultrasonic Distance
+│   ├── ultrasonic_distance.py               # Ultrasonic sensor project
+│   ├── ultrasonic_distance.ino              # Arduino IDE project
 │   ├── README.md                        
-├── 
-│   ├── Soil Moisture Logger.py             # Soil moisture monitoring
+├── Soil Moisture Logger
+│   ├── Soil Moisture Logger.py              # Soil moisture monitoring
+│   ├── Soil Moisture Logger.ino             # Arduino IDE project
 │   ├── README.md                     
-├── 
-│   ├── IMU Motion Tracking.py # IMU data acquisition
-│   ├──
-│   ├──
+├── IMU Motion Tracking
+│   ├── Reading Serial Data from MPU6050.py  # IMU data acquisition
+│   ├── BasisMPU6050.ino                     # Arduino IDE project
+│   ├── MPU6050 Complementary Filter.ino     # Arduino IDE project
 │   ├── README.md                       
 ├── 
-│   ├── can_bus_sensor_integration.py       # CAN bus integration
+│   ├── can_bus_sensor_integration.py        # CAN bus integration
 │   ├── README.md                       
 
 ```
