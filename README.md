@@ -12,25 +12,25 @@ Each project includes complete Python scripts for data logging, visualization, a
 
 ## Projects Included
 
-### 1. 🔊 Ultrasonic Distance Measurement
+### 1. Ultrasonic Distance Measurement
 - **File**: `ultrasonic_distance.py`
 - **Functionality**: Real-time distance measurement using ultrasonic sensors
 - **Features**: Time-of-flight calculation, CSV logging, statistical analysis
 - **Hardware**: HC-SR04 ultrasonic sensor + Arduino
 
-### 2. 🌱 Soil Moisture Monitoring
+### 2. Soil Moisture Monitoring
 - **File**: `Soil Moisture Logger.py`
 - **Functionality**: Voltage-to-moisture conversion with calibration
 - **Features**: Characteristic curve plotting, percentage conversion
 - **Hardware**: Capacitive/resistive soil moisture sensor + Arduino
 
-### 3. 📱 IMU Motion Tracking (MPU6050)
+### 3. IMU Motion Tracking (MPU6050)
 - **File**: `Reading Serial Data from MPU6050.py`
 - **Functionality**: 3-axis accelerometer data acquisition
 - **Features**: Real-time plotting, histogram analysis, mean calculation
 - **Hardware**: MPU6050 6-axis IMU sensor + Arduino
 
-### 4. 🚗 CAN Bus Sensor Integration
+### 4. CAN Bus Sensor Integration
 - **File**: `can_bus_sensor_integration.py`
 - **Functionality**: CAN bus communication with sensor data transmission
 - **Features**: Bidirectional CAN messaging, data validation, error handling
@@ -120,13 +120,13 @@ pip install numpy matplotlib pyserial canalystii
 
 ## Features
 
-- ✅ **Real-time Data Acquisition**: Live sensor readings via serial communication
-- ✅ **Data Visualization**: Automatic plotting and histogram generation
-- ✅ **CSV Data Logging**: Persistent storage for analysis
-- ✅ **Statistical Analysis**: Mean, distribution, and trend analysis
-- ✅ **Error Handling**: Robust error management and validation
-- ✅ **Cross-platform**: Works on Windows, macOS, and Linux
-- ✅ **Educational Focus**: Well-commented code for learning
+- **Real-time Data Acquisition**: Live sensor readings via serial communication
+- **Data Visualization**: Automatic plotting and histogram generation
+- **CSV Data Logging**: Persistent storage for analysis
+- **Statistical Analysis**: Mean, distribution, and trend analysis
+- **Error Handling**: Robust error management and validation
+- **Cross-platform**: Works on Windows, macOS, and Linux
+- **Educational Focus**: Well-commented code for learning
 
 ## Educational Context
 
