@@ -7,10 +7,10 @@ This repository contains Python and Arduino projects for reading sensor data and
 
 ## Projects Included
 
-### 1. Ultrasonic Distance
-### 2. Soil Moisture Logger
-### 3. IMU Motion Tracking
-### 4. CAN Bus Sensor Integration
+## 1. Ultrasonic Distance
+## 2. Soil Moisture Logger
+## 3. IMU Motion Tracking
+## 4. CAN Bus Sensor Integration
 
 ---
 
