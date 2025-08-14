@@ -29,10 +29,5 @@ This repository contains Python and Arduino projects for reading sensor data and
 
 ---
 
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 Hasham Muhammad
